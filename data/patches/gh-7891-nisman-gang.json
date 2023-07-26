@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "NISMAN GANG",
+	"description": "Nisman gang es un grupo de whatsapp de amigos que quisieron inmortalizar el nombre de Natalio Alberto Nisman (un fiscal Argentino fallecido) en su grupo y en r/place",
+	"links": {},
+	"path": {
+		"130-252": [
+			[
+				-881,
+				-352
+			],
+			[
+				-881,
+				-351
+			],
+			[
+				-871,
+				-353
+			],
+			[
+				-871,
+				-327
+			],
+			[
+				-876,
+				-328
+			],
+			[
+				-876,
+				-337
+			],
+			[
+				-881,
+				-337
+			],
+			[
+				-881,
+				-352
+			]
+		]
+	},
+	"center": {
+		"130-252": [
+			-876,
+			-342
+		]
+	}
+}
